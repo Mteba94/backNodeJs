@@ -1,0 +1,26 @@
+para iniciar con node js
+
+npm init -y
+
+git init
+
+ir a la pagina gitignore colocar la tecnologia que estoy utilizando y copiarlo en el archivo gitignore
+
+creo .editorconfig eslintrc.json
+
+instalar desde consola
+npm i eslint eslint-config-prettier eslint-plugin-prettier prettier nodemon -D
+
+cambiar el script
+
+"scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+
+instalar npm i express
+
+npm i -D mocha chai
+npm i -D chai-http
+npm i cors
+

@@ -1,0 +1,4 @@
+git init
+git commit -m "Se carga Proyecto"
+git remote add origin https://github.com/Mteba94/backNodeJs.git
+git push -u origin main
